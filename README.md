@@ -10,3 +10,4 @@ I put myself through college working for a local Internet Service Provider as a 
  Before finishing college, I developed and sold an award winning website to a Dot-Com start-up.
  After college, 
  I have worked at several companies ranging from start-ups to large enterprises focusing on Java and client-side technologies (HTML/CSS/JavaScript).
+ Teniola is a good boy
